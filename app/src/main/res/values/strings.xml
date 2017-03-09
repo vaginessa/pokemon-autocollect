@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PokeLoot</string>
+    <string name="Login">Login using Google</string>
+    <string name="EnterKey">Enter Key Here</string>
+    <string name="Token">Request Token</string>
+    <string name="Start">Start Service</string>
+    <string name="ServiceExplain">Once you enable the service, your GPS will be consistently monitored. When you walk near a Pokestop, an attempt will be made to auto-grab the items. You will get a notification if successful.</string>
+    <string name="Explantation">In order to communicate with the API, you need to login using the Google account that is connected with your Pokemon account. No personal data is stored or used. Once you login, you will be granted a device key that you must enter below. Be sure to copy and paste the entire code.</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer"></string>
+
+</resources>
